@@ -16,6 +16,7 @@ private:
     int audioFile;
 public:
     void ExecuteAudio();
-    void StopExecution();    
+    void StopExecution();
+    void BackgrounActivity();
 };
 #endif /* defined(__Starta__Audiopilea__) */
